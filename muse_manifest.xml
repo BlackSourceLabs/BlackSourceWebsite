@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="blacksource.tech" resolutions="1x" timestamp="1481070061914">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="288385587" ref="index"/>
+    <file name="nomq_index.css" crc="3991655056" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u134-5.png" crc="133973502" ref="index"/>
+    <file name="black-logo@2x-crop-u94.jpg" crc="424897592" ref="index"/>
+    <file name="u134-52.png" crc="295316649" ref="index"/>
+    <file name="black-logo@2x-crop-u942.jpg" crc="25064195" ref="index"/>
+    <file name="u134-53.png" crc="4058945763" ref="index"/>
+    <file name="black-logo@2x-crop-u943.jpg" crc="4077068875" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3955587996" seo="true" mt="1481069978784" redirect="true"/>
+</manifest>
