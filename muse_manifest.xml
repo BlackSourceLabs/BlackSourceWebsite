@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="blacksource.tech" resolutions="1x" timestamp="1484641492700">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="blacksource.tech" resolutions="1x" timestamp="1484991467385">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="293223069" ref="index"/>
+    <file name="index.css" crc="4152392638" ref="index"/>
     <file name="nomq_index.css" crc="3991655056" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -14,13 +14,14 @@
     <file name="require.js" crc="4159430777" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u134-5.png" crc="202420984" ref="index"/>
+    <file name="u134-5.png" crc="4112110574" ref="index"/>
     <file name="black-logo@2x-crop-u94.jpg" crc="128838473" ref="index"/>
-    <file name="u134-52.png" crc="503361325" ref="index"/>
+    <file name="u134-52.png" crc="4028220426" ref="index"/>
     <file name="black-logo@2x-crop-u942.jpg" crc="4246325677" ref="index"/>
-    <file name="u134-53.png" crc="500450292" ref="index"/>
+    <file name="u134-53.png" crc="3955789985" ref="index"/>
     <file name="black-logo@2x-crop-u943.jpg" crc="4077068875" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3959914378" ref="index"/>
   </folder>
-  <file name="index.html" crc="3938441014" seo="true" mt="1484641416953" redirect="true"/>
+  <file name="index.html" crc="4287385910" seo="true" mt="1484991455525" redirect="true"/>
 </manifest>
